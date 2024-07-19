@@ -1,4 +1,4 @@
-# Android device tree for oplus ossi (ossi)
+# Android device tree for REALME 11 4G (RMX-3636)
 
 ```
 #
