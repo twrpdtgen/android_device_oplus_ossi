@@ -71,8 +71,8 @@ jobs:
         export ALLOW_MISSING_DEPENDENCIES=true
         lunch twrp_realme 11-eng && make clean && make bootimage -j$(nproc --all)
         cd out/target/product/rmx3636
-        mv boot.img twrp-boot-${{ github.run_id }}.img
-        echo "Done building your twrp-boot-${{ github.run_id }}.img"
+        mv vendor_boot.img twrp-vendor_boot-${{ github.run_id }}.img
+        echo "Done building your vendor_boot-${{ github.run_id }}.img"
 
     - name: Set Properties
       run: |
