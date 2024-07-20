@@ -2,7 +2,7 @@
 
 Build your own custom recovery (TWRP) for REALME 11 4G (RMX-3636).
 
-![REALME 11 4G()
+![REALME 11 4G(https://fdn2.gsmarena.com/vv/pics/realme/realme-11-5g-tw-2.jpg)
 
 |Basic               |Spec Sheet                                                    |
 |--                  |--                                                            |
