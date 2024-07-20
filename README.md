@@ -1,4 +1,4 @@
-# Android device tree for oplus ossi (ossi)
+# Android device tree for REALME 11 4G (RMX-3636)
 
 ```
 #
@@ -8,3 +8,5 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
+# Realme-11-4g-device-tree
+# Realme-11-4g-device-tree
