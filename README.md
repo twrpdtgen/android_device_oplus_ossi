@@ -1,25 +1,17 @@
 # Custom Recovery Tree
 
-Build your own custom recovery (TWRP) for Infinix Note 30 VIP (aka Infinix-X6710 or just X6710).
+Build your own custom recovery (TWRP) for REALME 11 4G (RMX-3636).
 
-![Infinix Note 30 VIP](https://fdn2.gsmarena.com/vv/pics/infinix/infinix-x6710-note-30-vip-3.jpg)
+![REALME 11 4G()
 
 |Basic               |Spec Sheet                                                    |
 |--                  |--                                                            |
-|CPU                 |Octa-core (1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55))      |
-|Chipset             |Mediatek Dimensity 8050 (6 nm)                                     |
-|GPU                 |Mali-G77 MC9                                              |
-|Memory              |8/12GB RAM                                                     |
-|Android Version     |13 (XOS 13)                                               |
+|CPU                 |Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
+|Chipset             |HELIO G99 (6 nm)                                     |
+|GPU                 |Mali-G57 MC2                                             |
+|Memory              |8GB RAM                                                     |
+|Android Version     |13 REALME UI 4.0                                              |
 |Storage             |256GB                                                      |
-
-## Working Feature
-- Internal Storage (Decrypted)
-- External Storage (SD Card)
-- ADB/MTP
-
-## Notes
-Some features needs more test.
 
 ```
 #
