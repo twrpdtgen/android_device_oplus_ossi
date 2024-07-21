@@ -44,8 +44,8 @@ jobs:
         mkdir workspace
         cd workspace
         echo "workspace-folder=$(pwd)" >> $GITHUB_OUTPUT
-        git config --global user.name "Shivelight"
-        git config --global user.email "shivelight@tuta.io"
+        git config --global user.name "jhon paul"
+        git config --global user.email "eriojhonpaul517@gmail.com"
         repo init --depth=1 -u https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git -b twrp-12.1
       id: pwd
           
